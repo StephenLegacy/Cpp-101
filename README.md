@@ -2,6 +2,9 @@
 
 Welcome to the **Object-Oriented Programming Principles in C++** repository! This repository is a comprehensive collection of examples, explanations, and code snippets demonstrating the core concepts of OOP using the C++ programming language. It is designed to be a practical resource for students, educators, and developers aiming to understand and implement OOP in C++ effectively.
 
+# Stephen Oloo - " The pursuit for greatness is the most painful journey 💔. What I Ask Is: Is It Worth It?
+My Answers Has Always Kept Me Going, I Guess Yours Might Do so As Well.
+
 ---
 
 ## Table of Contents
