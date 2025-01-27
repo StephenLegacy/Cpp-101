@@ -1,10 +1,10 @@
 # Object-Oriented Programming (OOP) Principles in C++
 
-Welcome to the **Object-Oriented Programming Principles in C++** repository! This repository is a comprehensive collection of examples, explanations, and code snippets demonstrating the core concepts of OOP using the C++ programming language. It is designed to be a practical resource for students, educators, and developers aiming to understand and implement OOP in C++ effectively.
+This repository is a comprehensive collection of examples, explanations, and code snippets demonstrating the core concepts of OOP using the C++ programming language. It is designed to be a practical resource for students, educators, and developers aiming to understand and implement OOP in C++ effectively.
 
 # Stephen Oloo - " The Pursuit For Greatness Is Arguably The Most Painful Journey 💔. What I Ask Is: Is It Worth It?"
 
-*My Answer Has Always Kept Me Going, I Guess Yours Might Do so As Well.*
+*My Answer Has Always Kept Me Going, I Guess Yours Might Do So As Well.*
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to the **Object-Oriented Programming Principles in C++** repository! Thi
 4. [How to Use](#how-to-use)
 5. [Requirements](#requirements)
 6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ---
 
@@ -165,4 +165,5 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 ---
 
-Happy coding! If you have any questions or feedback, feel free to open an issue or reach out.
+Happy coding! If you have any questions or feedback, feel free to open an issue or reach out. 
+# STEPHEN OLOO ©2025 All Rights Reserved
